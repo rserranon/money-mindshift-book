@@ -1,0 +1,9 @@
+dump.asciidoc
+code/
+*.csv
+*.pdf
+.debris
+_build/
+dist/
+output/
+book.html

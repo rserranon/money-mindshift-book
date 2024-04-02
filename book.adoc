@@ -1,0 +1,114 @@
+= New Book
+:author: @Decentralized, @Bitcoin-101
+:creator: {author}
+:copyright: 
+:email: bitcoin-101@proton.com
+:revnumber: v1.0
+:revdate: 01.01.2024
+:revremark: First draft
+:doctype: book
+:toc: left
+//toclevels: 4
+//toc-title: Table of Contents
+//imagesdir: ./images
+//xrefstyle: short
+//
+:icons: image
+:stem:
+//
+:iconsdir: ./icons
+:pdf-theme: ./themes/my-theme.yml
+:stylesheet: ./themes/my-stylesheet.css
+:epub3-stylesdir: ./themes
+[role="pagenumrestart"]
+//
+
+
+is the optional preamble (an untitled section body). Useful for
+simple sectionless documents consisting only of a preamble.
+
+include::preface.adoc[]
+
+include::foreword.adoc[]
+
+
+
+== Introduction
+
+Bitcoin((("Bitcoin", "operational overview", id="bitcoin-operational-overview"))) is a collection of concepts and technologies that form the basis of a digital money ecosystem. Units of currency called bitcoin are used to store and transmit value among participants in the Bitcoin network. Bitcoin users communicate with each other using the Bitcoin protocol primarily via the internet, although other transport networks can also be used. The Bitcoin protocol stack, available as open source software, can be run on a wide range of computing devices, including laptops and smartphones, making the technology easily accessible.
+
+Bitcoin icon icon:question[] use btc[]
+
+Bitcoin icon icon:bitcoin[] use btc[]
+
+[TIP]
+====
+In this book, the ((("bitcoins", "defined")))unit of currency is called "bitcoin" with a small _b_,
+and the system is called "Bitcoin," with a capital _B_.
+====
+
+
+NOTE: a note
+
+TIP: a tip
+
+IMPORTANT: something important
+
+CAUTION: something to be cautious about
+
+WARNING: a warning
+
+[sidebar]
+Sidebars are used to visually separate auxiliary bits of content
+that supplement the main text.
+
+.Example block
+[example]
+This is an example of an example block.
+
+Quotation example:
+
+"I hold it that a little rebellion now and then is a good thing,
+and as necessary in the political world as storms in the physical."
+-- Thomas Jefferson, Papers of Thomas Jefferson: Volume 11
+
+Math:
+stem:[sqrt(4) = 2]
+
+stem:[ \sum_{i=0}^{32} 210,000 {50\over 2^i} \]
+
+
+Citation footnote:money[The Bitcoin Standard, Saifdean Ammous, 2018]
+
+Another money citation. footnote:money[]
+
+
+Table
+[frame=sides]
+|===
+|Column 1, header row |Column 2, header row |Column 3, header row
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+|Cell in column 3, row 2
+
+|Cell in column 1, row 3
+|Cell in column 2, row 3
+|Cell in column 3, row 3
+|===
+
+
+Bitcoin is a distributed, peer-to-peer system. As such, there is no
+central server or point of control. Units of bitcoin
+are created through a process((("bitcoins", "mining")))((("mining"))) called "mining," which involves repeatedly
+performing a computational task that references a list of recent Bitcoin
+transactions. Any participant in the Bitcoin network may operate as a
+miner, using their computing devices to help secure
+transactions. Every 10 minutes, on average, one Bitcoin miner can add security to
+past transactions and is rewarded with both brand new
+bitcoins and the fees paid by recent transactions. Essentially, Bitcoin
+mining decentralizes the currency-issuance
+and clearing functions of a central bank and replaces the need for any
+central bank.
+
+include::ch01_intro_what_is_bitcoin[]
