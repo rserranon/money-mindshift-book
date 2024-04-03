@@ -13,7 +13,8 @@
 //imagesdir: ./images
 //xrefstyle: short
 //
-:icons: image
+:favicon: ./images/bitcoin.png
+:icons: font
 :stem:
 //
 :iconsdir: ./icons
@@ -37,8 +38,6 @@ include::foreword.adoc[]
 
 Bitcoin((("Bitcoin", "operational overview", id="bitcoin-operational-overview"))) is a collection of concepts and technologies that form the basis of a digital money ecosystem. Units of currency called bitcoin are used to store and transmit value among participants in the Bitcoin network. Bitcoin users communicate with each other using the Bitcoin protocol primarily via the internet, although other transport networks can also be used. The Bitcoin protocol stack, available as open source software, can be run on a wide range of computing devices, including laptops and smartphones, making the technology easily accessible.
 
-Bitcoin icon icon:question[] use btc[]
-
 Bitcoin icon icon:bitcoin[] use btc[]
 
 [TIP]
@@ -58,6 +57,11 @@ CAUTION: something to be cautious about
 
 WARNING: a warning
 
+[my-icon-admonition]
+====
+This is a custom admonition with an icon.
+====
+
 [sidebar]
 Sidebars are used to visually separate auxiliary bits of content
 that supplement the main text.
@@ -72,7 +76,7 @@ Quotation example:
 and as necessary in the political world as storms in the physical."
 -- Thomas Jefferson, Papers of Thomas Jefferson: Volume 11
 
-Math:
+Math
 stem:[sqrt(4) = 2]
 
 stem:[ \sum_{i=0}^{32} 210,000 {50\over 2^i} \]
@@ -111,4 +115,4 @@ mining decentralizes the currency-issuance
 and clearing functions of a central bank and replaces the need for any
 central bank.
 
-include::ch01_intro_what_is_bitcoin[]
+//include::ch01_intro_what_is_bitcoin[]

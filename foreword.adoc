@@ -1,8 +1,4 @@
-[foreword]
-= Foreword
+== Foreword
+:doctype: book
 
 This is a Foreward
-
-== Foreword Subsection
-
-This is a foreword subsection

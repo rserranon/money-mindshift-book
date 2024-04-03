@@ -1,8 +1,5 @@
-[preface]
-= Our Preface
+== Our Preface
+:doctype: book
 
 This is a Preface
 
-== Preface Subsection
-
-This is a preface subsection
