@@ -1,0 +1,5 @@
+==  Glosario
+
+Mirería:: proceso de emisión de nuevos Bitcoins, se emite un bloque cada 10 minutos
+Nodo::
+	Computadora, tipicamente en casa de un individuo, que corre el software de Bitcoin

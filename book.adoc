@@ -7,10 +7,11 @@
 :revdate: 01.01.2024
 :revremark: First draft
 :doctype: book
+:!chapter-signifier:
 :toc: left
-//toclevels: 4
+:toclevels: 3
 //toc-title: Table of Contents
-//imagesdir: ./images
+:imagesdir: ./images
 //xrefstyle: short
 //
 :favicon: ./images/bitcoin.png
@@ -25,26 +26,129 @@
 //
 
 
-is the optional preamble (an untitled section body). Useful for
+This is the optional preamble (an untitled section body). Useful for
 simple sectionless documents consisting only of a preamble.
-
-include::preface.adoc[]
 
 include::foreword.adoc[]
 
 
+== Introducción
 
-== Introduction
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
-Bitcoin((("Bitcoin", "operational overview", id="bitcoin-operational-overview"))) is a collection of concepts and technologies that form the basis of a digital money ecosystem. Units of currency called bitcoin are used to store and transmit value among participants in the Bitcoin network. Bitcoin users communicate with each other using the Bitcoin protocol primarily via the internet, although other transport networks can also be used. The Bitcoin protocol stack, available as open source software, can be run on a wide range of computing devices, including laptops and smartphones, making the technology easily accessible.
+== Quién derbería leer este libro?
+
+O mejor dicho quienes no deberian leer este libro? 
+
+Creemos que no todo mundo esta listo para leer este libro.
+
+Por favor lee detenidamente las siguientes preguntas. Si tu no contestas afirmativamente a la mayoría de ellas, inmediatamente deja de leer! Vuelve a tu vida maravillosa, y regresa cuando este sueño se termine, y creas estar listo para volverte a hacer las mismas preguntas.
+
+En la vida, mucha gente toma el camino fácil de no cuestionar elementos y hechos clave de la vida, viviendo como zombie, creyendo ciegamente todo lo que nos inculcan desde peuqueños.
+
+Este libro es para los audaces que se cuestionan y verifican hechos importentes de la vida, aunque hayan sido sus mismos padres quienes se los hayan enseñado.
+
+image::YesYouAllAreWrong.jpeg[pdfwidth=85%]
+
+=== Preguntas clave
+
+image::Orange_question.svg[Static,50]
+
+IMPORTANT: desconoces a detalle la historia del dinero?
+
+Alguna vez te has preguntado de donde viene el concepto del dinero como hoy lo conocemos? Conoces su hitstoria básica? 
+ 
+IMPORTANT: Estas dispuesto a cambiar tu perspectiva de lo que siempre se ha asumido, o te han dicho que es el dinero?
+
+Estas abierto a entender y cuestionar lo que es el dinero y el sistema financiero de tu país y el internacional? Estas dispuesto a explorar si todo lo que existe es para tu beneficio? 
+
+IMPORTANT: Te percibes preso por tu gobierno o las grandes empresas ?
+
+Estas conciente de que cada vez mas eres vigilado constantemente? Te preocupa tu privacidad financiera por temas de seguridad?
+
+IMPORTANT: Estas a favor de separar el poder económico del poder político?
+
+Te frustra que tu Gobierno parece ser cada vez mas poderoso, que cada vez mas limita tu libertad como ciudadano y que cada vez mas ejerce control sobre ti?
+
+IMPORTANT: Consideras que tu moneda no tiene un repaldo de valor real?
+
+Sabes que ninguna moneda del mundo es respaldada o es intercambiable por oro?
+
+IMPORTANT: Te preocupa que la moneda de tu país no siempre sea fuerte? Si es que hoy lo es?
+
+Tu país se acerca a una severa crisis financiera, o en el pasado las ha padecido y ya te olvidaste, o son tus padres quienes la sufrieron?
+
+IMPORTANT: Crees que las grandes disrupciones tecnológicas y multidisciplinarias pueden crear nuevas formas de gestionar la riqueza?
+
+Reconoces que el mundo siempre se encuentra en un proceso de cambio contínuo? Te preocupa quedarte atrás?
+
+IMPORTANT: crees que el sistema económico mundial actual se utiliza para financiar guerras?
+
+Tu país o algún pais importante cercano a tu país se encuentra en constante conflicto bélico activo o potencial? Estas conciente de que en ocasiones, sin saberlo, tú contribuyes, de forma directa o indirecta, a financiar dichos conflictos?
+
+
+:sectnums:
+
+
+== El problema
+
+=== El dinero no siempre ha sido papel moneda ni oro
+
+==== Los primeros registros de uso de activos para el intercambio de bienes no eran monedas, si no objetos difícilmente reproducibles y escasos.
+
+===== Las piedras de xxx son los registros mas antiguos utilizados como medio de intercambio y almacenamiento de valor
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+===== Les siguieron otros objetos como conchas, sal y algunas piedras preciosas y metales
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+===== Finalmente el Oro se consolidó como el lider
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+=== El dinero es una invención para facilitar el intercambio comercial
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+=== El dinero en tu cuenta de Banco no es tuyo!
+
+==== Los depósitos que haces en cualquier Banco le ceden los derechos de tu dinero al Banco a cambio de un pagaré
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+
+
+=== Tu libertad y tu privacidad no existen!
+
+=== Tu moneda no está respaldada por oro o por ningun activo de valor!
+
+==== En un inicio las monedas eran respaldadas por oro
+
+==== Poco a poco los paises dejaron de respaldar sus monedas por oro
+
+==== Hoy todas las monedas son "Fiat" y no son respaldadas por oro
+
+==== Tu moneda pierde valor cada año y en unas decadas o menos valdrá la mitad de lo que vale hoy!
+
+=== Si vives en un país de primer mundo, activamente bélico, tú, con tus impuestos, estas financiando esas guerras!
+
+=== Existe una tecnología, que además incorpora otros previos descubrimientos científicos multidisciplinarios, que ...
+
+== La solución
+
+=== Bitcoin es la solución
+
+==== Bitcoin te libera de la opresión monetaria
+
+==== Btcoin es esperanza
+
+==== Una polítca monetaria limitada, conocida y predecible evita que tu dinero pierda valor en el tiempo
+
+==== La política monetaria de Bitcoin
 
 Bitcoin icon icon:bitcoin[] use btc[]
-
-[TIP]
-====
-In this book, the ((("bitcoins", "defined")))unit of currency is called "bitcoin" with a small _b_,
-and the system is called "Bitcoin," with a capital _B_.
-====
 
 
 NOTE: a note
@@ -57,10 +161,6 @@ CAUTION: something to be cautious about
 
 WARNING: a warning
 
-[my-icon-admonition]
-====
-This is a custom admonition with an icon.
-====
 
 [sidebar]
 Sidebars are used to visually separate auxiliary bits of content
@@ -79,10 +179,9 @@ and as necessary in the political world as storms in the physical."
 Math
 stem:[sqrt(4) = 2]
 
-stem:[ \sum_{i=0}^{32} 210,000 {50\over 2^i} \]
 
 
-Citation footnote:money[The Bitcoin Standard, Saifdean Ammous, 2018]
+Citation footnote:money[Ammous, Saifedean. The Bitcoin Standard: The Decentralized Alternative to Central Banking. Wiley, 2018.]
 
 Another money citation. footnote:money[]
 
@@ -101,18 +200,7 @@ Table
 |Cell in column 3, row 3
 |===
 
-
-Bitcoin is a distributed, peer-to-peer system. As such, there is no
-central server or point of control. Units of bitcoin
-are created through a process((("bitcoins", "mining")))((("mining"))) called "mining," which involves repeatedly
-performing a computational task that references a list of recent Bitcoin
-transactions. Any participant in the Bitcoin network may operate as a
-miner, using their computing devices to help secure
-transactions. Every 10 minutes, on average, one Bitcoin miner can add security to
-past transactions and is rewarded with both brand new
-bitcoins and the fees paid by recent transactions. Essentially, Bitcoin
-mining decentralizes the currency-issuance
-and clearing functions of a central bank and replaces the need for any
-central bank.
-
 //include::ch01_intro_what_is_bitcoin[]
+
+
+include::glossary.adoc[]

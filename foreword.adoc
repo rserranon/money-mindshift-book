@@ -1,4 +1,4 @@
 == Foreword
 :doctype: book
 
-This is a Foreward
+This is a Foreword
