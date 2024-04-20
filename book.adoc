@@ -29,7 +29,7 @@
 This is the optional preamble (an untitled section body). Useful for
 simple sectionless documents consisting only of a preamble.
 
-include::foreword.adoc[]
+include::preface.adoc[]
 
 
 == Introducción
@@ -54,35 +54,35 @@ image::YesYouAllAreWrong.jpeg[pdfwidth=85%]
 
 image::Orange_question.svg[Static,50]
 
-IMPORTANT: desconoces a detalle la historia del dinero?
+TIP: desconoces a detalle la historia del dinero?
 
 Alguna vez te has preguntado de donde viene el concepto del dinero como hoy lo conocemos? Conoces su hitstoria básica? 
  
-IMPORTANT: Estas dispuesto a cambiar tu perspectiva de lo que siempre se ha asumido, o te han dicho que es el dinero?
+TIP: Estas dispuesto a cambiar tu perspectiva de lo que siempre se ha asumido, o te han dicho que es el dinero?
 
 Estas abierto a entender y cuestionar lo que es el dinero y el sistema financiero de tu país y el internacional? Estas dispuesto a explorar si todo lo que existe es para tu beneficio? 
 
-IMPORTANT: Te percibes preso por tu gobierno o las grandes empresas ?
+TIP: Te percibes preso por tu gobierno o las grandes empresas ?
 
 Estas conciente de que cada vez mas eres vigilado constantemente? Te preocupa tu privacidad financiera por temas de seguridad?
 
-IMPORTANT: Estas a favor de separar el poder económico del poder político?
+TIP: Estas a favor de separar el poder económico del poder político?
 
 Te frustra que tu Gobierno parece ser cada vez mas poderoso, que cada vez mas limita tu libertad como ciudadano y que cada vez mas ejerce control sobre ti?
 
-IMPORTANT: Consideras que tu moneda no tiene un repaldo de valor real?
+TIP: Consideras que tu moneda no tiene un repaldo de valor real?
 
 Sabes que ninguna moneda del mundo es respaldada o es intercambiable por oro?
 
-IMPORTANT: Te preocupa que la moneda de tu país no siempre sea fuerte? Si es que hoy lo es?
+TIP: Te preocupa que la moneda de tu país no siempre sea fuerte? Si es que hoy lo es?
 
 Tu país se acerca a una severa crisis financiera, o en el pasado las ha padecido y ya te olvidaste, o son tus padres quienes la sufrieron?
 
-IMPORTANT: Crees que las grandes disrupciones tecnológicas y multidisciplinarias pueden crear nuevas formas de gestionar la riqueza?
+TIP: Crees que las grandes disrupciones tecnológicas y multidisciplinarias pueden crear nuevas formas de gestionar la riqueza?
 
 Reconoces que el mundo siempre se encuentra en un proceso de cambio contínuo? Te preocupa quedarte atrás?
 
-IMPORTANT: crees que el sistema económico mundial actual se utiliza para financiar guerras?
+TIP: crees que el sistema económico mundial actual se utiliza para financiar guerras?
 
 Tu país o algún pais importante cercano a tu país se encuentra en constante conflicto bélico activo o potencial? Estas conciente de que en ocasiones, sin saberlo, tú contribuyes, de forma directa o indirecta, a financiar dichos conflictos?
 
@@ -90,51 +90,41 @@ Tu país o algún pais importante cercano a tu país se encuentra en constante c
 :sectnums:
 
 
-== El problema
+== Tu problema
 
 === El dinero no siempre ha sido papel moneda ni oro
 
-==== Los primeros registros de uso de activos para el intercambio de bienes no eran monedas, si no objetos difícilmente reproducibles y escasos.
+===== Los primeros registros de uso de activos para el intercambio de bienes no eran monedas, si no objetos difícilmente reproducibles y escasos.
 
-===== Las piedras de xxx son los registros mas antiguos utilizados como medio de intercambio y almacenamiento de valor
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-===== Les siguieron otros objetos como conchas, sal y algunas piedras preciosas y metales
-
+====== Las piedras de Rai son los registros mas antiguos utilizados como medio de intercambio y almacenamiento de valor
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
-===== Finalmente el Oro se consolidó como el lider
+====== Les siguieron otros objetos como conchas, sal y algunas piedras preciosas y metales
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
-=== El dinero es una invención para facilitar el intercambio comercial
+====== Finalmente el Oro se consolidó como el lider
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
-=== El dinero en tu cuenta de Banco no es tuyo!
+===== Tu moneda no tiene respaldo y si la resguardas en la Banca, no es tuya!
 
-==== Los depósitos que haces en cualquier Banco le ceden los derechos de tu dinero al Banco a cambio de un pagaré
+===== Tu moneda no está respaldada por oro o por ningun activo de valor!
+
+===== El dinero en tu cuenta de Banco no es tuyo!
+
+====== Los depósitos que haces en cualquier Banco le ceden los derechos de tu dinero al Banco a cambio de un pagaré
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
+
+=== Eres un rehen de tu Gobierno
 
 === Tu libertad y tu privacidad no existen!
 
-=== Tu moneda no está respaldada por oro o por ningun activo de valor!
-
-==== En un inicio las monedas eran respaldadas por oro
-
-==== Poco a poco los paises dejaron de respaldar sus monedas por oro
-
-==== Hoy todas las monedas son "Fiat" y no son respaldadas por oro
-
-==== Tu moneda pierde valor cada año y en unas decadas o menos valdrá la mitad de lo que vale hoy!
-
-=== Si vives en un país de primer mundo, activamente bélico, tú, con tus impuestos, estas financiando esas guerras!
-
-=== Existe una tecnología, que además incorpora otros previos descubrimientos científicos multidisciplinarios, que ...
+=== Se requiere un cambio de fondo cuestionando lo que parece incuestionable!
 
 == La solución
 
